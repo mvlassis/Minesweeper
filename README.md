@@ -11,6 +11,8 @@ An implementation of the classic Minesweeper game in Java using JavaFX. This pro
 - And much mor- actually, that's about it.
 
 ## Gallery
+ <img src="gallery/gameplay1.png" width="400"> <img src="gallery/gameplay2.png" width="400"> <img src="gallery/game_won.png" width="400">
+ <img src="gallery/game_over.png" width="400">  <img src="gallery/results.png" width="400"> <img src="gallery/game_create.png" width="400">
 
 ## Language & Libraries
 - The whole project uses the Java programming language. I targeted Java SE 17, but the project can probably be run on older versions as well
